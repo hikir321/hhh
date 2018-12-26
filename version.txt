@@ -1,0 +1,1 @@
+{"code":"2.0","update":"https://github.com/hikir321/hhh/raw/master/app-release.apk"}
